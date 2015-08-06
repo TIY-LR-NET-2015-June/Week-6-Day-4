@@ -8,8 +8,8 @@ Create c# models and database tables for a Car Dealership. The dealership has ma
 
 Today
 -----
-1. Review Many to Many
-2. Paging and Some Ajax
+1. Review Many to Many Relationships
+2. Paging and Ajax
 3. User Identity Provider
 
 
